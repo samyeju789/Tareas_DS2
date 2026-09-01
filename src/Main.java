@@ -60,7 +60,7 @@ public class Main {
 
         }
 
-        int[] Mitad = {1, 89,25,12,45,8,9,1,2,3,5};
+        int[] Mitad = {1,89,25,12,45,8,9,1,2,3,5};
 
 
         int menor3 = Mitad[0];
