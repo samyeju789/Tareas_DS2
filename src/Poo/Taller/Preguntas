@@ -1,0 +1,21 @@
+1. Qué método inicia la ejecución de un programa Java?
+  R\\ un main, public static void main.
+2. Qué diferencia observas entre String, int y boolean?
+    R\\ un boolean solo son dos opciones si\no, un string es para escribir con muchos caracteres como un gmail
+3. Qué instruccion usamos para imprimir en consola?
+    R\\ un sout, system out println
+4. Qué representa Estudiante y que representa estudiante1?
+    R\\ estudiante es el nombre de la variable, estudiante1 es la persona
+Preguntas final
+
+1.Por qué es mejor usar private para nombre y edad en vez de dejarlos public?
+    R\\ Es mejor ya que el private ya que por medio de los getter y setters puede svalidar la edad, nombre o asi, tipo que no sea negativo y todo eso,
+    no s epueden modificar siendo privadas.
+2. Qué diferencia hay entre crear un objeto y crear una clase?
+    R\\ la clase es donde defines atributos y el objeto es lo que creamos a partir d elos atributos d ela clase con sus datos concretos
+3. 4. En el reto, por qué Estudiante y Profesor heredan de Persona?
+    R\\ porque los dos son personas, ambos tienen nombre y edad
+4\\ Qué obliga a hacer un método abstracto en una clase hija?
+    R\\ Obliga al programa a sobreescribirse el método escribiendo su código. Si no se hace, el compilador de Java da error y no deja ejecutar el programa.
+
+
